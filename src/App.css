@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-linear-to-br from-black to-gray-800 bg-no-repeat min-h-screen;
+}
